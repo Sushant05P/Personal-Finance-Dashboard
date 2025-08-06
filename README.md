@@ -14,7 +14,9 @@ This is a personal finance tracker built using Streamlit and Plotly that lets us
 
 •	Edit and manage expense categories dynamically
 
+
 🚀 Features
+
 •	Custom expense category tagging
 
 •	Auto-categorization based on transaction descriptions
@@ -27,6 +29,7 @@ This is a personal finance tracker built using Streamlit and Plotly that lets us
 
 
 🛠 Tech Stack
+
 •	Python
 
 •	Streamlit
